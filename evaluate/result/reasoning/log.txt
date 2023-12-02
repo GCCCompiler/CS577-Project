@@ -1,0 +1,1 @@
+Namespace(model='mae_vit_large_patch16', output_dir='C:/Users/70241/PycharmProjects/visual_prompting-main/evaluate/result/reasoning/', device='cuda', seed=0, tta_option=0, ckpt='C:/Users/70241/PycharmProjects/visual_prompting-main/output_dir/checkpoint-1000.pth', dataset_type='color')
